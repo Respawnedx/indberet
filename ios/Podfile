@@ -1,0 +1,19 @@
+# Definer en global platform for dit projekt
+platform :ios, '10.0'
+
+target 'Runner' do
+  # Brug dynamiske frameworks
+  use_frameworks!
+
+  # Firebase Pods for Runner
+  pod 'Firebase/Core'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Firestore' # Til Firestore, hvis det er nødvendigt
+  pod 'Firebase/Analytics'
+
+  target 'RunnerTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

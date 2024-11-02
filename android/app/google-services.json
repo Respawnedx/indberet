@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "43334541697",
+    "project_id": "test-d4f18",
+    "storage_bucket": "test-d4f18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43334541697:android:dd7750a8722c5c9e3b8880",
+        "android_client_info": {
+          "package_name": "com.example.indberet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43334541697-6pq4o3prqfu9n9a2a7vdhi0qmqtsfdit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC51_XJir66FlyyrJknVvSCeexAIVGRU7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43334541697-6pq4o3prqfu9n9a2a7vdhi0qmqtsfdit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "43334541697-j2eip1k9ac8ij028ispm8mv68vtkfffi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.indberet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
